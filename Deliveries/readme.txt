@@ -18,7 +18,9 @@ DELIVERIES OF
        |> uploads for the 6/11/2015 
 	  submission deadline
 
--...
--...
-	>
+-DD    |> upload for the 4/12/2015 
+	  submission deadline
+
+- ...	>
+
 -----------------------------------
