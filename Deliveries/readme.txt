@@ -12,7 +12,8 @@ PROF. MIRANDOLA
 
 -----------------------------------
 
-DELIVERIES OF
+DELIVERIES OF:
+
 -RASD  |
 -ALLOY |
        |> uploads for the 6/11/2015 
@@ -22,6 +23,9 @@ DELIVERIES OF
 	  submission deadline
 
 -ID    |> upload for the 5/01/2016 
+	  submission deadline
+
+-ITPD  |> upload for the 21/01/2016 
 	  submission deadline
 
 - ...	>
