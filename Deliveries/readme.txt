@@ -32,3 +32,5 @@ DELIVERIES OF:
 	  submission deadline
 
 -----------------------------------
+
+END OF DELIVERIES
